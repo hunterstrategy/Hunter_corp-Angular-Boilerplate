@@ -1,4 +1,5 @@
-# AngularBoilerplate
+# Hunter_corp-Angular-Boilerplate
+A base implementation of angular to be used as core code with scaffolding and core libraries already generated
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
